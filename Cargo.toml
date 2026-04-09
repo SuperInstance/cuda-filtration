@@ -1,5 +1,8 @@
 [package]
 name = "cuda-filtration"
-version = "0.1.0"
+version = "0.2.0"
 edition = "2021"
-description = "Intelligence filtration — extract insights from agent deliberation streams"
+description = "Intelligence filtration — uses cuda-equipment"
+
+[dependencies]
+# cuda-equipment = { path = "../cuda-equipment" }
