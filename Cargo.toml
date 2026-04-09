@@ -1,8 +1,11 @@
 [package]
 name = "cuda-filtration"
-version = "0.2.0"
+version = "0.1.0"
 edition = "2021"
-description = "Intelligence filtration — uses cuda-equipment"
+description = "Intelligence filtration — security gates, privacy checks, performance filters, resource budgets by agent tier"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/Lucineer/cuda-filtration"
+keywords = ["ai", "fleet", "agent"]
 
 [dependencies]
-# cuda-equipment = { path = "../cuda-equipment" }
+cuda-equipment = { path = "../cuda-equipment" }
