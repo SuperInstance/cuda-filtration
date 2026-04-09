@@ -1,0 +1,5 @@
+[package]
+name = "cuda-filtration"
+version = "0.1.0"
+edition = "2021"
+description = "Intelligence filtration — extract insights from agent deliberation streams"
